@@ -1,2 +1,2 @@
 # datasciencecoursera
-This folder contains my work related to DataScience Specialisation in Coursera
+This repo contains my work related to DataScience Specialisation in Coursera
